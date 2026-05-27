@@ -12,8 +12,8 @@ The project 3 is about Creating insights using SQL Queries
 - Perform aggregations (COUNT, SUM, AVG)
 
   ## Step by Step Procedures
-  - I Created the Database name Decodelabs_Internship.
-  - I changed the Excel Xlxs to CSV (Delimiter).
+  - I Created the Database and i named it Decodelabs_Internship.
+  - I changed the Excel Xlxs to CSV (Comma Delimited).
   - I imported my flat file to the database I created.
   - Columns: 14
   - Rows: 1200
