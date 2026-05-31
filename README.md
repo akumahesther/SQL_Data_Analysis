@@ -39,4 +39,4 @@ Eager for the project 4.....
 - query_outputs.csv – Results
 
 ## Tools Used
-- SQL, MySQL
+- SQL, MySQL.
