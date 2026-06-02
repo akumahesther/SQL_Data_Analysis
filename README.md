@@ -1,4 +1,4 @@
-# Task 3: SQL Data Analysis
+# Step 3: SQL Data Analysis
 
 ## Goal
 Use SQL queries to extract insights from a dataset.
